@@ -13,7 +13,7 @@
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
     "countdown-vue": "^1.1.5",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "vue": "^2.6.11",
     "vue-awesome-countdown": "^1.0.26",
     "vue-axios": "^2.1.5",
